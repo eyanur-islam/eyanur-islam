@@ -17,13 +17,12 @@ Welcome to my GitHub profile! I am a passionate developer and tech enthusiast de
 - **Frameworks/Libraries:** [List yours here, e.g., Bootstrap, Tailwind]
 
 ### 📊 GitHub Stats
-![Eyanur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyanur-islam&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyanur-islam&layout=compact&theme=dark)
+![Eyanur's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyanur-islam&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyanur-islam&layout=compact&theme=dark)
 
 ### 📫 Connect with me:
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [your-profile-link]
-- **Portfolio:** [your-website-link]
-
+- **Email:** [mdeyanurislam784@gmail.com]
+- **Facebook:** [https://www.facebook.com/profile.php?id=61585016710729]
+- **Portfolio:** [https://eyanur-islam.vercel.app/]
 ---
 *“Coding the future, one commit at a time.”*
